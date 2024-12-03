@@ -10,3 +10,5 @@ prisma/seed.ts
 
 # Logs
 logs/*
+
+.DS_Store
