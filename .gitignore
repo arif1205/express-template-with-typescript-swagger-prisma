@@ -1,0 +1,14 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+# uploads
+build
+
+# Prisma
+prisma/seed.ts
+
+# Logs
+logs/*
+.DS_Store
+.DS_Store?
